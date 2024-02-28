@@ -45,7 +45,7 @@ DB_NAME = environ.get("DB_NAME", "madara-uchiha")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7199264489:AAHfwRQfCNdIFR_L6eD5JTYqrk2vjUpsWBQ")
 BOT_USERNAME = environ.get("BOT_USERNAME", "SAKUNA_SMK_BOT") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
 
