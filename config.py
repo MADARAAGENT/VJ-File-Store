@@ -30,16 +30,14 @@ DB_NAME = environ.get("DB_NAME", "cluster0")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "")bjfsb anajnadv sm
 BOT_USERNAME = environ.get("BOT_USERNAME", "PAIN_SMK_BOT") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
-
+PICS = (environ.get('PICS', 'https://graph.org/filendjksn m/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+ shh j
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
-
-# Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002057330647"))
+nsc n nm ns057330647"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001694371548')).split()]
 
 # Don't Remove Credit Tg - @VJ_Botz
